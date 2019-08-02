@@ -1,6 +1,6 @@
 def using_include(array, element)
 array.include?"tardis"
-p array
+puts array
 end
 
 def using_sort(array)
