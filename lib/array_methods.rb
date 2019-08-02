@@ -23,6 +23,6 @@ arrays.last
 end
 
 def using_size(array)
-arrays.size
 arrays = ["wow", "I", "am", "really", "learning", "arrays!"]
+arrays.size
 end
