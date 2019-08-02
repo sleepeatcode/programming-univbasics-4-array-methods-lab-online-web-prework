@@ -1,5 +1,5 @@
-def using_include(arrays, element)
-arrays.include?("tardis")
+def using_include(array, element)
+arrays.include?("element2")
 end
 
 def using_sort(array)
