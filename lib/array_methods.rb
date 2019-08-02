@@ -1,7 +1,7 @@
 def using_include(arrays, element)
 arrays = [ "", "b", "c" ]
-a.include?("b")   #=> true
-a.include?("z")   #=> false
+a.include?("wow")   #=> true
+a.include?("tardis")   #=> false
 end
 
 
