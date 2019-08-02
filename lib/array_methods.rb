@@ -1,5 +1,4 @@
 def using_include(array, element)
-arrays = ["wow", "I", "am", "really", "learning", "arrays!"]
 arrays.include?("soda")
 end
 
