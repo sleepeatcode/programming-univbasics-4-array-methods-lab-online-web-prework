@@ -1,7 +1,5 @@
 def using_include(arrays, element)
-arrays = [ "", "b", "c" ]
-if true then
-  arrays.include?("wow") #=> true
+
   end 
 else 
   if false then
