@@ -1,5 +1,5 @@
 def using_include(arrays, element)
-
+arrays = ["wow", "I", "am", "really", "learning", "arrays!"]
  
 end
 
