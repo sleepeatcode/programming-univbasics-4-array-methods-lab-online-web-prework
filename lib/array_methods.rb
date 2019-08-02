@@ -1,5 +1,4 @@
 def using_include(arrays, element)
-arrays.include?"wow"
 a = [ "a", "b", "c" ]
 a.include?("b")   #=> true
 a.include?("z")   #=> false
