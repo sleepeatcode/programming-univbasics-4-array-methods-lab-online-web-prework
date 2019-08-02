@@ -1,6 +1,6 @@
 def using_include(array, element)
 arrays.include?("wow")
-puts "true" if ["wow"]
+p arrays
 end
 
 def using_sort(array)
