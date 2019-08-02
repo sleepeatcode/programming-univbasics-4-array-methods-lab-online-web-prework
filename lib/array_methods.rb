@@ -1,7 +1,10 @@
 def using_include(arrays, element)
 arrays.include?"wow"
-p arrays
+a = [ "a", "b", "c" ]
+a.include?("b")   #=> true
+a.include?("z")   #=> false
 end
+
 
 def using_sort(array)
 arrays = ["wow", "I", "am", "really", "learning", "arrays!"]
