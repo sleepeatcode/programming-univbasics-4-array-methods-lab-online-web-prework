@@ -1,10 +1,6 @@
 def using_include(arrays, element)
 
-  end 
-else 
-  if false then
-  arrays.include?("tardis")   #=> false
-  end 
+ 
 end
 
 
